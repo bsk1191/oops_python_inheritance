@@ -1,0 +1,14 @@
+class human:
+#     def __init__(self,c,h):
+#         self.color=c
+#         self.height=h
+#     def run(self,n):
+#         print(n+' '+'is running')
+#     def walk(self,n):
+#         print(n+' '+'is walking')
+# sai=human('white',5.6)
+# print("color is",sai.color,"height is",sai.height)
+# sai.run('sai')
+# kiran=human('black',5.8)
+# print(kiran.color,kiran.height)
+# kiran.walk("kiran")
